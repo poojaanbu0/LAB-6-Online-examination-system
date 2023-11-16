@@ -27,7 +27,8 @@ the hall ticket to the applicants. The applicants can download the hall tickets 
 ### ACTIVITY DIAGRAM:
 ![Screenshot 2023-10-30 142243](https://github.com/balar2004/LAB-6-Online-examination-system/assets/118791778/0c605134-9fcd-451d-a59e-caa764366e5e)
 ### PACKAGE DIAGRAM:
-![image](https://github.com/poojaanbu0/LAB-6-Online-examination-system/assets/119390329/48ea0a0d-ee0b-4455-86b5-59bfa033e775)
+![image](https://github.com/poojaanbu0/LAB-6-Online-examination-system/assets/119390329/98efa3b0-0e57-4162-87eb-ca48cd866186)
+
 
 
 ### RESULT:
